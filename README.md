@@ -1,6 +1,6 @@
 # Hi, I'm Lenny Dany Derek D 👋
 
-I’m a first-year student at **SRM University** passionate about full-stack development and exploring AI technologies.
+I’m a 2nd Year College student at **SRM University** passionate about full-stack development and exploring AI technologies.
 
 ---
 
