@@ -139,11 +139,11 @@ const lenny = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```
 [ ██████████░░░░░░░░░░ ] 50%  Ship Ascendry v1 publicly
-[ ████████░░░░░░░░░░░░ ] 40%  Launch IELTS AI Platform
+[ ████████░░░░░░░░░░░░ ] 40%  Launch AI Platform
 [ ██████░░░░░░░░░░░░░░ ] 30%  Build Jarvis Voice AI
 [ ████░░░░░░░░░░░░░░░░ ] 20%  Master ML/AI from scratch
 [ ██████████████░░░░░░ ] 70%  Complete SIMS SmartAssist
