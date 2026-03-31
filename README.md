@@ -133,7 +133,9 @@ const lenny = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LennyDany-03&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=LennyDany-03&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
 
 </div>
 
