@@ -1,0 +1,69 @@
+name: Refresh profile assets
+
+# The signal graphics are drawn from real GitHub numbers baked in at build
+# time, so they need redrawing periodically to stay honest.
+
+on:
+  schedule:
+    # Every Monday, 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/assets/generate.py"
+      - ".github/assets/fetch_data.py"
+      - ".github/assets/icons.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  redraw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull the latest numbers
+        run: python .github/assets/fetch_data.py
+
+      - name: Redraw the SVGs
+        run: python .github/assets/generate.py
+
+      - name: Fail if any SVG is malformed
+        run: |
+          python - <<'PY'
+          import glob, sys, xml.dom.minidom
+          bad = []
+          for f in sorted(glob.glob(".github/assets/*.svg")):
+              try:
+                  xml.dom.minidom.parse(f)
+              except Exception as e:
+                  bad.append("%s: %s" % (f, e))
+          if bad:
+              print("\n".join(bad))
+              sys.exit(1)
+          print("all %d SVGs well-formed" % len(glob.glob(".github/assets/*.svg")))
+          PY
+
+      - name: Commit whatever changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/assets
+          if git diff --staged --quiet; then
+            echo "nothing changed"
+          else
+            git commit -m "Redraw profile assets from latest GitHub stats"
+            git push
+          fi

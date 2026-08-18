@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/hero-light.svg" />
-  <img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/hero-dark.svg" alt="Lenny Dany Derek D — full-stack developer, desktop apps, AI agents" width="100%" />
+  <img src=".github/assets/hero-dark.svg" alt="Lenny Dany Derek D — full-stack developer, desktop apps, AI agents" width="100%" />
 </picture>
 
-<a href="https://github.com/LennyDany-03?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLennyDany-03&query=public_repos&label=repos&style=flat-square&color=00D9FF&labelColor=12171F&logo=github&logoColor=white" alt="Public repos" /></a>
+<a href="https://github.com/LennyDany-03?tab=repositories"><img src="https://img.shields.io/github/stars/LennyDany-03?style=flat-square&color=00D9FF&labelColor=12171F&logo=github&logoColor=white&label=stars" alt="Total stars" /></a>
 <a href="https://github.com/LennyDany-03?tab=followers"><img src="https://img.shields.io/github/followers/LennyDany-03?style=flat-square&color=00D9FF&labelColor=12171F&logo=github&logoColor=white&label=followers" alt="Followers" /></a>
 <a href="https://github.com/LennyDany-03/Dynamic-Notch/releases/latest"><img src="https://img.shields.io/github/v/release/LennyDany-03/Dynamic-Notch?style=flat-square&color=7C3AED&labelColor=12171F&logo=windowsterminal&logoColor=white&label=crest" alt="Crest release" /></a>
 
@@ -14,62 +14,48 @@
 
 > [!NOTE]
 > I started on the web and kept going down the stack. These days that means a **Rust/Tauri desktop app**,
-> a **Python automation agent**, and a handful of **Next.js products** that actually have users.
+> a **React Native product on a typed Python API**, and a **scroll-scrubbed canvas site**.
 > Everything below links to something you can open and run.
 
-<img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/rule.svg" width="100%" alt="" />
+<img src=".github/assets/rule.svg" width="100%" alt="" />
 
 ## `$ ls ~/shipping`
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<a href="https://github.com/LennyDany-03/Dynamic-Notch">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-crest-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-crest-light.svg" />
+  <img src=".github/assets/card-crest-dark.svg" alt="01 — Crest. The dynamic notch, built for Windows. A Mica-glass panel pinned to the top of any screen: media, launcher, clipboard, notes. Tauri 2, Rust, TypeScript. v0.6.9." width="100%" />
+</picture>
+</a>
 
-### 🪟 &nbsp;Crest
+<a href="https://github.com/LennyDany-03/Loopify">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-loopify-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-loopify-light.svg" />
+  <img src=".github/assets/card-loopify-dark.svg" alt="02 — Loopify. Habits, tracked on a real loop. An Expo and React Native app on a typed FastAPI backend, with Supabase auth and check-ins. Expo 54, React 19, FastAPI, Supabase." width="100%" />
+</picture>
+</a>
 
-**The dynamic notch, built for Windows.**
+<a href="https://github.com/LennyDany-03/NIC-Website">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-nic-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-nic-light.svg" />
+  <img src=".github/assets/card-nic-dark.svg" alt="03 — NIC. A keynote you scroll through. 912 frames across four sequences, painted to canvas at whatever frame the scroll asks for. Next.js 16, React 19, Framer Motion, Supabase." width="100%" />
+</picture>
+</a>
 
-A Mica-glass panel pinned to the top of any screen. Nudge it and your media, launcher, clipboard, file shelf and notes slide down. Move away and the desktop is yours again.
+<div align="center">
+<sub>
 
-<sub>`Tauri 2` &nbsp;`Rust` &nbsp;`TypeScript`</sub>
+**Crest** &nbsp;[repo](https://github.com/LennyDany-03/Dynamic-Notch) · [download](https://github.com/LennyDany-03/Dynamic-Notch/releases/latest) · [site](https://crest-beta.vercel.app) &nbsp;&nbsp;|&nbsp;&nbsp;
+**Loopify** &nbsp;[repo](https://github.com/LennyDany-03/Loopify) · [site](https://loopify3.vercel.app) &nbsp;&nbsp;|&nbsp;&nbsp;
+**NIC** &nbsp;[repo](https://github.com/LennyDany-03/NIC-Website) · [site](https://nic-srm.vercel.app)
 
-[![repo](https://img.shields.io/badge/repo-12171F?style=flat-square&logo=github&logoColor=white)](https://github.com/LennyDany-03/Dynamic-Notch)
-[![download](https://img.shields.io/badge/download-7C3AED?style=flat-square&logo=windows&logoColor=white)](https://github.com/LennyDany-03/Dynamic-Notch/releases/latest)
-[![site](https://img.shields.io/badge/site-000000?style=flat-square&logo=vercel&logoColor=white)](https://crest-beta.vercel.app)
+</sub>
+</div>
 
-</td>
-<td width="33%" valign="top">
-
-### ⚡ &nbsp;Ascendry
-
-**The platform everything else ships under.**
-
-A SaaS surface for AI-powered digital products and client work — auth, payments and delivery in one place, so a new product is a deploy and not a rebuild.
-
-<sub>`Next.js` &nbsp;`Supabase` &nbsp;`Razorpay`</sub>
-
-[![repo](https://img.shields.io/badge/repo-12171F?style=flat-square&logo=github&logoColor=white)](https://github.com/LennyDany-03/Ascendry)
-[![site](https://img.shields.io/badge/site-000000?style=flat-square&logo=vercel&logoColor=white)](https://ascendry.vercel.app)
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 &nbsp;Atlas
-
-**Think less chat. More execution.**
-
-An automation-first agent that turns intent into real actions across the OS, the web and APIs. One loop, four steps: `intent → plan → execute → learn`.
-
-<sub>`Python` &nbsp;`Agents` &nbsp;`Tooling`</sub>
-
-[![repo](https://img.shields.io/badge/repo-12171F?style=flat-square&logo=github&logoColor=white)](https://github.com/LennyDany-03/Atlas)
-[![status](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square&labelColor=12171F)](https://github.com/LennyDany-03/Atlas)
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/rule.svg" width="100%" alt="" />
+<img src=".github/assets/rule.svg" width="100%" alt="" />
 
 ## `$ cat stack`
 
@@ -78,25 +64,35 @@ An automation-first agent that turns intent into real actions across the OS, the
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/stack-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/stack-light.svg" />
-  <img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/stack-dark.svg" alt="Stack: Rust, Tauri 2, TypeScript, Next.js, React, Python — plus JavaScript, Tailwind, Motion, FastAPI, Flask, Supabase, Postgres, Expo, Electron, Docker, Vercel, Git, Actions, Razorpay, C and C++" width="100%" />
+  <img src=".github/assets/stack-dark.svg" alt="Stack: Rust, Tauri 2, TypeScript, Next.js, React, Python — plus JavaScript, Tailwind, Motion, FastAPI, Flask, Supabase, Postgres, Expo, Electron, Docker, Vercel, Git, Actions, Razorpay, C and C++" width="100%" />
 </picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/rule.svg" width="100%" alt="" />
+<img src=".github/assets/rule.svg" width="100%" alt="" />
 
 ## `$ git log --oneline --author=lenny`
 
-|  | project | what it is | stack | live |
-|:-:|:--|:--|:--|:-:|
-| 🪟 | **[Crest](https://github.com/LennyDany-03/Dynamic-Notch)** | A dynamic notch for Windows — media, launcher, clipboard, file shelf, notes | Tauri&nbsp;2 · Rust · TS | [↗](https://crest-beta.vercel.app) |
-| 🎬 | **[NIC](https://github.com/LennyDany-03/NIC-Website)** | Four video sequences scrubbed onto `<canvas>` by scroll, keynote-style | Next · Framer · Supabase | [↗](https://nic-srm.vercel.app) |
-| ⚡ | **[Ascendry](https://github.com/LennyDany-03/Ascendry)** | SaaS platform for AI products and client delivery | Next · Supabase · Razorpay | [↗](https://ascendry.vercel.app) |
-| 🧠 | **[Atlas](https://github.com/LennyDany-03/Atlas)** | Automation-first agent: intent → plan → execute → learn | Python | — |
-| 🔁 | **[Loopify](https://github.com/LennyDany-03/Loopify)** | Habit & routine tracker, native app on a typed API | Expo · FastAPI · Supabase | [↗](https://loopify3.vercel.app) |
-| 🔗 | **[Blinko](https://github.com/LennyDany-03/Blinko)** | Link-in-bio and personal site builder, live in minutes | Next · Supabase · Razorpay | [↗](https://blinko3.vercel.app) |
-| 📊 | **[Glance](https://github.com/LennyDany-03/Glance-GitHub-Contribution-Widget)** | Desktop widget that keeps your contribution graph on screen | Electron | — |
-| 💸 | **[NovaPay](https://github.com/LennyDany-03/NovaPay)** | UPI expense capture and budget insight | React · Supabase | [↗](https://novapay3.vercel.app) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/ledger-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/ledger-light.svg" />
+  <img src=".github/assets/ledger-dark.svg" alt="Selected work — Crest (Rust): a dynamic notch for Windows. Loopify (JavaScript): habit tracking on a typed API. NIC (JavaScript): 912 frames scrubbed by scroll. Ascendry (JavaScript): the platform the products ship under. Atlas (Python): an agent that executes, not chats. Blinko (JavaScript): link-in-bio and personal site builder. Glance (JavaScript): contribution graph as a desktop widget. NovaPay (JavaScript): UPI expense capture and insight." width="100%" />
+</picture>
+
+<div align="center">
+<sub>
+
+[Crest](https://github.com/LennyDany-03/Dynamic-Notch) ·
+[Loopify](https://github.com/LennyDany-03/Loopify) ·
+[NIC](https://github.com/LennyDany-03/NIC-Website) ·
+[Ascendry](https://github.com/LennyDany-03/Ascendry) ·
+[Atlas](https://github.com/LennyDany-03/Atlas) ·
+[Blinko](https://github.com/LennyDany-03/Blinko) ·
+[Glance](https://github.com/LennyDany-03/Glance-GitHub-Contribution-Widget) ·
+[NovaPay](https://github.com/LennyDany-03/NovaPay)
+
+</sub>
+</div>
 
 <details>
 <summary><b><code>$ ls ~/client-work</code></b> &nbsp;— sites built for real people and organisations</summary>
@@ -166,46 +162,37 @@ An automation-first agent that turns intent into real actions across the OS, the
 
 </details>
 
-<img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/rule.svg" width="100%" alt="" />
+<img src=".github/assets/rule.svg" width="100%" alt="" />
 
 ## `$ gh api /signals`
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/signals-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/signals-light.svg" />
+  <img src=".github/assets/signals-dark.svg" alt="60 repositories, 37 live deploys, 5 languages, 2.1 years shipping. Repos by primary language: JavaScript 34, TypeScript 10, Python 8, HTML 5, CSS 2. Plus repos pushed per month across the last 12 months." width="100%" />
+</picture>
+
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LennyDany-03&bg_color=00000000&color=8B949E&line=00D9FF&point=7C3AED&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20activity&title_color=E6EDF3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LennyDany-03&bg_color=00000000&color=636C76&line=0B8FA8&point=6D28D9&area=true&area_color=0B8FA8&hide_border=true&custom_title=Contribution%20activity&title_color=1F2328" />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LennyDany-03&theme=tokyo-night&hide_border=true" width="100%" />
-</picture>
-
-<br/>
-
-<!-- Generated from MY contribution graph by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/output/github-snake.svg" />
-  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/output/github-snake.svg" width="100%" />
-</picture>
-
+<sub>Numbers pulled straight from the GitHub API and redrawn every Monday — see <a href="https://github.com/LennyDany-03/LennyDany-03/blob/main/.github/workflows/assets.yml"><code>assets.yml</code></a>.</sub>
 </div>
 
-<img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/rule.svg" width="100%" alt="" />
+<img src=".github/assets/rule.svg" width="100%" alt="" />
 
 ## `$ cat roadmap.2026`
 
 ```
 [ ██████████████░░░░░░ ]  70%   Crest -> 1.0 stable, on more desktops
+[ ████████████░░░░░░░░ ]  60%   Loopify off prototype data, onto the live API
 [ ██████████░░░░░░░░░░ ]  50%   Ascendry v1, open to the public
 [ ██████░░░░░░░░░░░░░░ ]  30%   Atlas: an agent that finishes the task
 [ ████░░░░░░░░░░░░░░░░ ]  20%   ML/AI from first principles, no wrappers
-[ ████████░░░░░░░░░░░░ ]  40%   Ship one real product every quarter
 ```
 
 > [!TIP]
 > Crest runs on any Windows 10/11 machine — you do not need a laptop with a notch.
 > **[Grab the installer →](https://github.com/LennyDany-03/Dynamic-Notch/releases/latest)**
 
-<img src="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/rule.svg" width="100%" alt="" />
+<img src=".github/assets/rule.svg" width="100%" alt="" />
 
 ## `$ curl -X CONNECT lenny`
 
@@ -217,14 +204,16 @@ An automation-first agent that turns intent into real actions across the OS, the
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lenny_dany_3/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lennydany3@gmail.com)
 
-<br/>
+</div>
 
-<sub>Open to internships, freelance builds, and anything that ships.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/footer-light.svg" />
+  <img src=".github/assets/footer-dark.svg" alt="$ exit — open to internships, freelance builds, and anything that ships. lennydany3@gmail.com" width="100%" />
+</picture>
 
-<br/><br/>
-
-<sub>Every graphic on this page is generated from
+<div align="center">
+<sub>Every graphic on this page is hand-drawn SVG, generated from
 <a href="https://github.com/LennyDany-03/LennyDany-03/blob/main/.github/assets/generate.py"><code>.github/assets/generate.py</code></a> —
 edit a token, re-run, done.</sub>
-
 </div>
