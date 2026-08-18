@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/hero-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/hero-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/hero-light.svg?v=2" />
   <img src=".github/assets/hero-dark.svg" alt="Lenny Dany Derek D — full-stack developer, desktop apps, AI agents" width="100%" />
 </picture>
 
@@ -23,24 +23,24 @@
 
 <a href="https://github.com/LennyDany-03/Dynamic-Notch">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-crest-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-crest-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-crest-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-crest-light.svg?v=2" />
   <img src=".github/assets/card-crest-dark.svg" alt="01 — Crest. The dynamic notch, built for Windows. A Mica-glass panel pinned to the top of any screen: media, launcher, clipboard, notes. Tauri 2, Rust, TypeScript. v0.6.9." width="100%" />
 </picture>
 </a>
 
 <a href="https://github.com/LennyDany-03/Loopify">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-loopify-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-loopify-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-loopify-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-loopify-light.svg?v=2" />
   <img src=".github/assets/card-loopify-dark.svg" alt="02 — Loopify. Habits, tracked on a real loop. An Expo and React Native app on a typed FastAPI backend, with Supabase auth and check-ins. Expo 54, React 19, FastAPI, Supabase." width="100%" />
 </picture>
 </a>
 
 <a href="https://github.com/LennyDany-03/NIC-Website">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-nic-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-nic-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-nic-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/card-nic-light.svg?v=2" />
   <img src=".github/assets/card-nic-dark.svg" alt="03 — NIC. A keynote you scroll through. 912 frames across four sequences, painted to canvas at whatever frame the scroll asks for. Next.js 16, React 19, Framer Motion, Supabase." width="100%" />
 </picture>
 </a>
@@ -62,8 +62,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/stack-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/stack-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/stack-light.svg?v=2" />
   <img src=".github/assets/stack-dark.svg" alt="Stack: Rust, Tauri 2, TypeScript, Next.js, React, Python — plus JavaScript, Tailwind, Motion, FastAPI, Flask, Supabase, Postgres, Expo, Electron, Docker, Vercel, Git, Actions, Razorpay, C and C++" width="100%" />
 </picture>
 
@@ -74,8 +74,8 @@
 ## `$ git log --oneline --author=lenny`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/ledger-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/ledger-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/ledger-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/ledger-light.svg?v=2" />
   <img src=".github/assets/ledger-dark.svg" alt="Selected work — Crest (Rust): a dynamic notch for Windows. Loopify (JavaScript): habit tracking on a typed API. NIC (JavaScript): 912 frames scrubbed by scroll. Ascendry (JavaScript): the platform the products ship under. Atlas (Python): an agent that executes, not chats. Blinko (JavaScript): link-in-bio and personal site builder. Glance (JavaScript): contribution graph as a desktop widget. NovaPay (JavaScript): UPI expense capture and insight." width="100%" />
 </picture>
 
@@ -167,8 +167,8 @@
 ## `$ gh api /signals`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/signals-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/signals-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/signals-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/signals-light.svg?v=2" />
   <img src=".github/assets/signals-dark.svg" alt="60 repositories, 37 live deploys, 5 languages, 2.1 years shipping. Repos by primary language: JavaScript 34, TypeScript 10, Python 8, HTML 5, CSS 2. Plus repos pushed per month across the last 12 months." width="100%" />
 </picture>
 
@@ -207,8 +207,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/footer-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/footer-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LennyDany-03/LennyDany-03/main/.github/assets/footer-light.svg?v=2" />
   <img src=".github/assets/footer-dark.svg" alt="$ exit — open to internships, freelance builds, and anything that ships. lennydany3@gmail.com" width="100%" />
 </picture>
 
