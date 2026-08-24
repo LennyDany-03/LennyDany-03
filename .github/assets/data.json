@@ -1,19 +1,19 @@
 {
   "user": "LennyDany-03",
-  "repos": 60,
-  "followers": 11,
-  "live": 37,
+  "repos": 59,
+  "followers": 12,
+  "live": 36,
   "stars": 4,
   "years": 2.1,
   "since": "Jul 2024",
   "languages": [
     [
       "JavaScript",
-      34
+      32
     ],
     [
       "TypeScript",
-      10
+      11
     ],
     [
       "Python",
@@ -53,7 +53,7 @@
     4,
     1,
     4,
-    2,
+    1,
     6
   ],
   "created": [
@@ -67,8 +67,8 @@
     5,
     1,
     4,
-    2,
+    1,
     2
   ],
-  "generated": "2026-08-18"
+  "generated": "2026-08-24"
 }
